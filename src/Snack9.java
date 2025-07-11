@@ -2,7 +2,7 @@ public class Snack9 {
     public static void main(String[] args) {
         int somma = 0;
 
-        for (int i = 1; i <= 10; i++) {
+        for (int i = 0; i <= 9; i++) {
             somma += i;
         }
 
